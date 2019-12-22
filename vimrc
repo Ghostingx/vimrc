@@ -1,5 +1,3 @@
-"  Gvim中文菜单乱码解决方案
-"  http://blog.csdn.net/laruence/article/details/2603031
 set encoding=utf-8
 set fileencodings=utf-8,chinese,latin-1
 if has("win32")
@@ -15,9 +13,6 @@ source $VIMRUNTIME/menu.vim
 "解决consle输出乱码
 language messages zh_CN.utf-8
 
-
-" 2017-02-04修改"
-" https://www.oschina.net/code/snippet_574132_13351"
 "------------------------------------------------------------------------------
 "  < 判断操作系统是否是 Windows 还是 Linux >
 "------------------------------------------------------------------------------
@@ -216,13 +211,6 @@ endfunc
 
 
 "==========================================
-" Author:  wklken
-" Version: 9.0
-" Email: wklken@yeah.net
-" BlogPost: http://www.wklken.me
-" ReadMe: README.md
-" Donation: http://www.wklken.me/pages/donation.html
-" Last_modify: 2015-05-02
 " Sections:
 "       -> Initial Plugin 加载插件
 "       -> General Settings 基础设置
