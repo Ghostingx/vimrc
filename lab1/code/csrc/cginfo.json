@@ -1,0 +1,148 @@
+{
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 207621
+    },
+    "MlibObjs": {},
+    "PEModules": [],
+    "PrevCompiledModules": {},
+    "CompileStrategy": "fullobj",
+    "CurCompileUdps": {},
+    "NameTable": {
+        "vcs_paramclassrepository": [
+            "vcs_paramclassrepository",
+            "hEeZs",
+            "module"
+        ],
+        "switch": [
+            "switch",
+            "Kv9Tb",
+            "module"
+        ],
+        "std": [
+            "std",
+            "reYIK",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ],
+        "_vcs_unit__1579239103": [
+            "_vcs_unit__1579239103",
+            "JIJDN",
+            "module"
+        ],
+        "uvm_pkg": [
+            "uvm_pkg",
+            "zr7M1",
+            "module"
+        ],
+        "top": [
+            "top",
+            "Emx8S",
+            "module"
+        ],
+        "mem_interface": [
+            "mem_interface",
+            "Vkank",
+            "module"
+        ],
+        "input_interface": [
+            "input_interface",
+            "yfxi1",
+            "module"
+        ],
+        "output_interface": [
+            "output_interface",
+            "TF9QN",
+            "module"
+        ]
+    },
+    "Misc": {
+        "csrc_abs": "/root/workspace/UVM_Labs/lab1/code/csrc",
+        "cwd": "/root/workspace/UVM_Labs/lab1/code",
+        "daidir_abs": "/root/workspace/UVM_Labs/lab1/code/simv.daidir",
+        "csrc": "csrc",
+        "daidir": "simv.daidir",
+        "default_output_dir": "csrc",
+        "archive_dir": "archive.0"
+    },
+    "stat": {
+        "ru_self_cgstart": {
+            "ru_utime_sec": 1.7644,
+            "ru_nivcsw": 24,
+            "ru_stime_sec": 0.070175000000000001,
+            "ru_maxrss_kb": 135132,
+            "ru_minflt": 16216,
+            "ru_majflt": 0,
+            "ru_nvcsw": 24
+        },
+        "mopSpeed": 162983.20315884583,
+        "ru_childs_end": {
+            "ru_utime_sec": 0.0,
+            "ru_nivcsw": 0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 0,
+            "ru_minflt": 0,
+            "ru_majflt": 0,
+            "ru_nvcsw": 0
+        },
+        "ru_childs_cgstart": {
+            "ru_utime_sec": 0.0,
+            "ru_nivcsw": 0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 0,
+            "ru_minflt": 0,
+            "ru_majflt": 0,
+            "ru_nvcsw": 0
+        },
+        "nQuads": 36629,
+        "nMops": 105338,
+        "totalObjSize": 4799345,
+        "CodeGen(%)": 26.810004679115554,
+        "ru_self_end": {
+            "ru_utime_sec": 2.4107120000000002,
+            "ru_nivcsw": 32,
+            "ru_stime_sec": 0.080022999999999997,
+            "ru_maxrss_kb": 138096,
+            "ru_minflt": 17572,
+            "ru_majflt": 0,
+            "ru_nvcsw": 24
+        },
+        "quadSpeed": 56673.866491725341,
+        "mop/quad": 2.8758087853886263,
+        "outputSizePerQuad": 131.0,
+        "Frontend(%)": 73.189995320884449
+    },
+    "CurCompileModules": [
+        "...MASTER...",
+        "...MASTER...",
+        "vcs_paramclassrepository",
+        "vcs_paramclassrepository",
+        "_vcs_unit__1579239103",
+        "_vcs_unit__1579239103",
+        "std",
+        "std",
+        "uvm_pkg",
+        "uvm_pkg",
+        "switch",
+        "switch",
+        "top",
+        "top",
+        "mem_interface",
+        "mem_interface",
+        "input_interface",
+        "input_interface",
+        "output_interface",
+        "output_interface"
+    ],
+    "CompileProcesses": [
+        "cgproc.2350.json"
+    ],
+    "LVLData": [
+        "SIM"
+    ],
+    "CompileStatus": "Successful"
+}

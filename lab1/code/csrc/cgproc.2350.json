@@ -1,0 +1,167 @@
+{
+    "ObjArchives": [
+        {
+            "archive": "archive.0/_2350_archive_1.a",
+            "objects": [
+                [
+                    "hEeZs_d.o",
+                    2366050
+                ],
+                [
+                    "JIJDN_d.o",
+                    11124
+                ],
+                [
+                    "reYIK_d.o",
+                    32874
+                ],
+                [
+                    "zr7M1_d.o",
+                    2113678
+                ],
+                [
+                    "Kv9Tb_d.o",
+                    29940
+                ],
+                [
+                    "Emx8S_d.o",
+                    8843
+                ],
+                [
+                    "Vkank_d.o",
+                    7051
+                ],
+                [
+                    "yfxi1_d.o",
+                    7053
+                ],
+                [
+                    "TF9QN_d.o",
+                    7086
+                ]
+            ],
+            "size": 4583699
+        }
+    ],
+    "Modules": {
+        "...MASTER...": {},
+        "_vcs_unit__1579239103": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "vcs_paramclassrepository": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "switch": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "std": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "uvm_pkg": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "top": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "mem_interface": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "input_interface": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "output_interface": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        }
+    },
+    "CompUnits": {
+        "amcQw_d": {
+            "checksum": 0,
+            "mod": "...MASTER...",
+            "out": "objs/amcQw_d.o",
+            "bytes": 8025,
+            "mode": 4
+        },
+        "Emx8S_d": {
+            "checksum": 0,
+            "mod": "top",
+            "out": "Emx8S_d.o",
+            "bytes": 8843,
+            "mode": 4,
+            "archive": "archive.0/_2350_archive_1.a"
+        },
+        "hEeZs_d": {
+            "checksum": 0,
+            "mod": "vcs_paramclassrepository",
+            "out": "hEeZs_d.o",
+            "bytes": 2366050,
+            "mode": 4,
+            "archive": "archive.0/_2350_archive_1.a"
+        },
+        "JIJDN_d": {
+            "checksum": 0,
+            "mod": "_vcs_unit__1579239103",
+            "out": "JIJDN_d.o",
+            "bytes": 11124,
+            "mode": 4,
+            "archive": "archive.0/_2350_archive_1.a"
+        },
+        "Vkank_d": {
+            "checksum": 0,
+            "mod": "mem_interface",
+            "out": "Vkank_d.o",
+            "bytes": 7051,
+            "mode": 4,
+            "archive": "archive.0/_2350_archive_1.a"
+        },
+        "TF9QN_d": {
+            "checksum": 0,
+            "mod": "output_interface",
+            "out": "TF9QN_d.o",
+            "bytes": 7086,
+            "mode": 4,
+            "archive": "archive.0/_2350_archive_1.a"
+        },
+        "Kv9Tb_d": {
+            "checksum": 0,
+            "mod": "switch",
+            "out": "Kv9Tb_d.o",
+            "bytes": 29940,
+            "mode": 4,
+            "archive": "archive.0/_2350_archive_1.a"
+        },
+        "reYIK_d": {
+            "checksum": 0,
+            "mod": "std",
+            "out": "reYIK_d.o",
+            "bytes": 32874,
+            "mode": 4,
+            "archive": "archive.0/_2350_archive_1.a"
+        },
+        "zr7M1_d": {
+            "checksum": 0,
+            "mod": "uvm_pkg",
+            "out": "zr7M1_d.o",
+            "bytes": 2113678,
+            "mode": 4,
+            "archive": "archive.0/_2350_archive_1.a"
+        },
+        "yfxi1_d": {
+            "checksum": 0,
+            "mod": "input_interface",
+            "out": "yfxi1_d.o",
+            "bytes": 7053,
+            "mode": 4,
+            "archive": "archive.0/_2350_archive_1.a"
+        }
+    },
+    "reusePaths": {}
+}

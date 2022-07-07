@@ -1,0 +1,3 @@
+DPI_STUB_OBJS += ./../simv_dbg.daidir/vc_hdrs.o
+./../simv_dbg.daidir/vc_hdrs.o: ./../simv_dbg.daidir/vc_hdrs.c
+	@$(CC)  -pipe -DVCS -fPIC    -I/usr/synopsys/vcs-L-2016.06/include  -fPIC -c -o ./../simv_dbg.daidir/vc_hdrs.o ./../simv_dbg.daidir/vc_hdrs.c

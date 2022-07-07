@@ -1,0 +1,162 @@
+{
+    "MlibObjs": {},
+    "PEModules": [],
+    "PrevCompiledModules": {},
+    "CurCompileModules": [
+        "...MASTER...",
+        "...MASTER...",
+        "vcs_paramclassrepository",
+        "vcs_paramclassrepository",
+        "_vcs_unit__3988123883",
+        "_vcs_unit__3988123883",
+        "std",
+        "std",
+        "uvm_pkg",
+        "uvm_pkg",
+        "_vcs_msglog",
+        "_vcs_msglog",
+        "uvm_custom_install_recording",
+        "uvm_custom_install_recording",
+        "switch",
+        "switch",
+        "top",
+        "top",
+        "mem_interface",
+        "mem_interface",
+        "input_interface",
+        "input_interface",
+        "output_interface",
+        "output_interface"
+    ],
+    "CompileProcesses": [
+        "cgproc.3474.json"
+    ],
+    "NameTable": {
+        "vcs_paramclassrepository": [
+            "vcs_paramclassrepository",
+            "hEeZs",
+            "module"
+        ],
+        "switch": [
+            "switch",
+            "Kv9Tb",
+            "module"
+        ],
+        "_vcs_unit__3988123883": [
+            "_vcs_unit__3988123883",
+            "Z9GwR",
+            "module"
+        ],
+        "output_interface": [
+            "output_interface",
+            "TF9QN",
+            "module"
+        ],
+        "std": [
+            "std",
+            "reYIK",
+            "module"
+        ],
+        "top": [
+            "top",
+            "Emx8S",
+            "module"
+        ],
+        "uvm_pkg": [
+            "uvm_pkg",
+            "zr7M1",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ],
+        "uvm_custom_install_recording": [
+            "uvm_custom_install_recording",
+            "nhiwz",
+            "module"
+        ],
+        "_vcs_msglog": [
+            "_vcs_msglog",
+            "zQBzV",
+            "module"
+        ],
+        "input_interface": [
+            "input_interface",
+            "yfxi1",
+            "module"
+        ],
+        "mem_interface": [
+            "mem_interface",
+            "Vkank",
+            "module"
+        ]
+    },
+    "CompileStrategy": "fullobj",
+    "CompileStatus": "Successful",
+    "SIMBData": {
+        "bytes": 347320,
+        "out": "amcQwB.o"
+    },
+    "stat": {
+        "quadSpeed": 46051.906228006526,
+        "ru_self_cgstart": {
+            "ru_nvcsw": 34,
+            "ru_majflt": 5,
+            "ru_minflt": 29502,
+            "ru_utime_sec": 2.3548629999999999,
+            "ru_stime_sec": 0.029933999999999999,
+            "ru_maxrss_kb": 148384,
+            "ru_nivcsw": 28
+        },
+        "ru_childs_cgstart": {
+            "ru_nvcsw": 4,
+            "ru_majflt": 0,
+            "ru_minflt": 824,
+            "ru_utime_sec": 0.0058450000000000004,
+            "ru_stime_sec": 0.0018890000000000001,
+            "ru_maxrss_kb": 55064,
+            "ru_nivcsw": 0
+        },
+        "totalObjSize": 12111774,
+        "nMops": 336465,
+        "ru_self_end": {
+            "ru_nvcsw": 34,
+            "ru_majflt": 11,
+            "ru_minflt": 32129,
+            "ru_utime_sec": 4.649578,
+            "ru_stime_sec": 0.059865000000000002,
+            "ru_maxrss_kb": 155448,
+            "ru_nivcsw": 42
+        },
+        "mopSpeed": 146626.05160117924,
+        "nQuads": 105676,
+        "ru_childs_end": {
+            "ru_nvcsw": 4,
+            "ru_majflt": 0,
+            "ru_minflt": 824,
+            "ru_utime_sec": 0.0058450000000000004,
+            "ru_stime_sec": 0.0018890000000000001,
+            "ru_maxrss_kb": 55064,
+            "ru_nivcsw": 0
+        },
+        "outputSizePerQuad": 114.0,
+        "mop/quad": 3.1839301260456492,
+        "Frontend(%)": 50.646811388044249,
+        "CodeGen(%)": 49.353188611955751
+    },
+    "CurCompileUdps": {},
+    "LVLData": [
+        "SIM"
+    ],
+    "Misc": {
+        "cwd": "/root/workspace/UVM_Labs/lab1/code",
+        "default_output_dir": "csrc_dbg",
+        "csrc": "csrc_dbg",
+        "csrc_abs": "/root/workspace/UVM_Labs/lab1/code/csrc_dbg",
+        "daidir": "/root/workspace/UVM_Labs/lab1/code/simv_dbg.daidir",
+        "daidir_abs": "/root/workspace/UVM_Labs/lab1/code/simv_dbg.daidir",
+        "archive_dir": "archive.0"
+    }
+}

@@ -1,0 +1,199 @@
+{
+    "ObjArchives": [
+        {
+            "objects": [
+                [
+                    "hEeZs_d.o",
+                    5424041
+                ],
+                [
+                    "Z9GwR_d.o",
+                    189732
+                ],
+                [
+                    "reYIK_d.o",
+                    42564
+                ],
+                [
+                    "zr7M1_d.o",
+                    5918794
+                ],
+                [
+                    "zQBzV_d.o",
+                    10221
+                ],
+                [
+                    "nhiwz_d.o",
+                    26064
+                ],
+                [
+                    "Kv9Tb_d.o",
+                    80201
+                ],
+                [
+                    "Emx8S_d.o",
+                    9644
+                ],
+                [
+                    "Vkank_d.o",
+                    23705
+                ],
+                [
+                    "yfxi1_d.o",
+                    16200
+                ],
+                [
+                    "TF9QN_d.o",
+                    14758
+                ]
+            ],
+            "archive": "archive.0/_3474_archive_1.a",
+            "size": 11755924
+        }
+    ],
+    "Modules": {
+        "...MASTER...": {},
+        "uvm_custom_install_recording": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "_vcs_msglog": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "vcs_paramclassrepository": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "switch": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "_vcs_unit__3988123883": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "output_interface": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "top": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "std": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "uvm_pkg": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "input_interface": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "mem_interface": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        }
+    },
+    "CompUnits": {
+        "TF9QN_d": {
+            "mod": "output_interface",
+            "mode": 4,
+            "bytes": 14758,
+            "out": "TF9QN_d.o",
+            "checksum": 0,
+            "archive": "archive.0/_3474_archive_1.a"
+        },
+        "amcQw_d": {
+            "mod": "...MASTER...",
+            "mode": 4,
+            "bytes": 8530,
+            "out": "objs/amcQw_d.o",
+            "checksum": 0
+        },
+        "hEeZs_d": {
+            "mod": "vcs_paramclassrepository",
+            "mode": 4,
+            "bytes": 5424041,
+            "out": "hEeZs_d.o",
+            "checksum": 0,
+            "archive": "archive.0/_3474_archive_1.a"
+        },
+        "Z9GwR_d": {
+            "mod": "_vcs_unit__3988123883",
+            "mode": 4,
+            "bytes": 189732,
+            "out": "Z9GwR_d.o",
+            "checksum": 0,
+            "archive": "archive.0/_3474_archive_1.a"
+        },
+        "reYIK_d": {
+            "mod": "std",
+            "mode": 4,
+            "bytes": 42564,
+            "out": "reYIK_d.o",
+            "checksum": 0,
+            "archive": "archive.0/_3474_archive_1.a"
+        },
+        "zQBzV_d": {
+            "mod": "_vcs_msglog",
+            "mode": 4,
+            "bytes": 10221,
+            "out": "zQBzV_d.o",
+            "checksum": 0,
+            "archive": "archive.0/_3474_archive_1.a"
+        },
+        "zr7M1_d": {
+            "mod": "uvm_pkg",
+            "mode": 4,
+            "bytes": 5918794,
+            "out": "zr7M1_d.o",
+            "checksum": 0,
+            "archive": "archive.0/_3474_archive_1.a"
+        },
+        "nhiwz_d": {
+            "mod": "uvm_custom_install_recording",
+            "mode": 4,
+            "bytes": 26064,
+            "out": "nhiwz_d.o",
+            "checksum": 0,
+            "archive": "archive.0/_3474_archive_1.a"
+        },
+        "yfxi1_d": {
+            "mod": "input_interface",
+            "mode": 4,
+            "bytes": 16200,
+            "out": "yfxi1_d.o",
+            "checksum": 0,
+            "archive": "archive.0/_3474_archive_1.a"
+        },
+        "Kv9Tb_d": {
+            "mod": "switch",
+            "mode": 4,
+            "bytes": 80201,
+            "out": "Kv9Tb_d.o",
+            "checksum": 0,
+            "archive": "archive.0/_3474_archive_1.a"
+        },
+        "Emx8S_d": {
+            "mod": "top",
+            "mode": 4,
+            "bytes": 9644,
+            "out": "Emx8S_d.o",
+            "checksum": 0,
+            "archive": "archive.0/_3474_archive_1.a"
+        },
+        "Vkank_d": {
+            "mod": "mem_interface",
+            "mode": 4,
+            "bytes": 23705,
+            "out": "Vkank_d.o",
+            "checksum": 0,
+            "archive": "archive.0/_3474_archive_1.a"
+        }
+    },
+    "reusePaths": {}
+}
